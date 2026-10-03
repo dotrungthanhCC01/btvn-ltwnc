@@ -1,0 +1,14 @@
+.pm { max-width: 860px; margin: 0 auto; padding: 24px 16px; font-family: system-ui, Segoe UI, Roboto, sans-serif; color: #1e1b4b; }
+.pm h1 { margin: 0 0 4px; font-size: 1.6rem; }
+.pm__sub { margin: 0 0 16px; color: #4b5563; }
+.pm__toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.pm__toolbar input, .pm__toolbar select, .pm__toolbar button { padding: 8px 12px; border: 1px solid #c7d2fe; border-radius: 8px; font-size: 14px; }
+.pm__toolbar input { flex: 1; min-width: 180px; }
+.pm__toolbar button { background: #4338ca; color: #fff; cursor: pointer; }
+.pm__meta { margin: 8px 0; font-size: 14px; color: #374151; }
+.pm__viewport { height: 600px; overflow: auto; border: 1px solid #e0e7ff; border-radius: 10px; position: relative; background: #fafaff; }
+.pm__list { border: 1px solid #e0e7ff; border-radius: 10px; background: #fafaff; }
+.pm-card { height: 72px; box-sizing: border-box; display: flex; align-items: center; justify-content: space-between; padding: 0 16px; border-bottom: 1px solid #e0e7ff; }
+.pm-card h3 { margin: 0; font-size: 15px; }
+.pm-card p { margin: 2px 0 0; font-size: 13px; color: #4b5563; }
+.pm-card button { padding: 6px 12px; border: 0; border-radius: 6px; background: #4338ca; color: #fff; cursor: pointer; }
